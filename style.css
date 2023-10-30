@@ -411,4 +411,12 @@ footer .logo-container {
         justify-content: space-evenly;
         align-items: flex-start;
     }
+
+    .bg {
+        background-image: 
+        url('images/bg-pattern-intro-desktop.svg'),
+        linear-gradient(to right, hsl(13, 100%, 72%), hsl(353, 100%, 62%));
+        background-position: 28% 55%;
+        border-radius: 0 0 0 7rem;
+    }
 }
